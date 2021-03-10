@@ -1,13 +1,13 @@
 ---
+- name: Cloud and Systems
+  sub: OS
+- name: Software Engineering
+  sub: SE
 - name: Machine Learning
   sub: ML
-- name: Computer Vision
-  sub: CV
 - name: Natural Language Proc
   sub: NLP
-- name: Robotics
-  sub: RO
-- name: Speech/SigProc
-  sub: SP
+- name: Programming Languages
+  sub: PL
 - name: Data Mining
   sub: DM
