@@ -1,0 +1,13 @@
+title: Conference Deadlines
+description: Countdowns to top SE/NLP/ML/PL conference deadlines
+author: yttty
+
+domain: "yttty.github.io"
+baseurl: "https://yttty.github.io/conf-deadlines"
+
+github_username: yttty
+github_repo: ai-deadlines
+
+markdown: kramdown
+
+include: ['_pages']
