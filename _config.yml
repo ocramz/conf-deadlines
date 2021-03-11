@@ -6,7 +6,7 @@ domain: "yttty.github.io"
 baseurl: "https://yttty.github.io/conf-deadlines"
 
 github_username: yttty
-github_repo: conf-deadliness
+github_repo: conf-deadlines
 
 markdown: kramdown
 
