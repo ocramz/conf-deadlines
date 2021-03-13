@@ -71,6 +71,32 @@
   sub: SE
   note: "<b>NOTE</b>: Estimated deadline on Aug 13, 2021"
 
+- title: ASPLOS
+  hindex: 112
+  year: 2022
+  id: asplos22
+  link: https://asplos-conference.org/
+  deadline: "2021-08-21 14:59:00"
+  timezone: America/Los_Angeles
+  date: April 19-23, 2022
+  place: Somewhere
+  abstract_deadline: "2021-08-14 14:59:00"
+  sub: OS
+  note: "<b>NOTE</b>: Estimated abstract deadline on Aug 14, 2021"
+
+- title: DSN
+  hindex: 112
+  year: 2022
+  id: dsn22
+  link: http://example.com/
+  deadline: "2021-12-11 14:59:00"
+  timezone: America/Los_Angeles
+  date: June 21-24, 2022
+  place: Somewhere
+  abstract_deadline: "2021-12-04 14:59:00"
+  sub: OS
+  note: "<b>NOTE</b>: Estimated abstract deadline on Dec 4, 2021"
+
 - title: CIKM
   hindex: 48
   year: 2020
