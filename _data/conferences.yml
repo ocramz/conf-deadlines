@@ -4,11 +4,12 @@
   year: 2021
   id: ase21
   link: https://conf.researchr.org/home/ase-2021
-  deadline: "2021-04-16 23:59:59"
+  deadline: "2021-04-23 23:59:59"
   timezone: UTC-12
   date: Nov 15-19, 2021
   place: Melbourne, Australia
   sub: SE
+  note: "<b>NOTE</b>: Mandatory abstract deadline on April 16, 2021 (AoE)"
 
 - title: SOSP
   hindex: 112
