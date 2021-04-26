@@ -1,16 +1,4 @@
 ---
-- title: ASE
-  hindex: 47
-  year: 2021
-  id: ase21
-  link: https://conf.researchr.org/home/ase-2021
-  deadline: "2021-04-23 23:59:59"
-  timezone: UTC-12
-  date: Nov 15-19, 2021
-  place: Melbourne, Australia
-  sub: SE
-  note: "<b>NOTE</b>: Mandatory abstract deadline on April 16, 2021 (AoE)"
-
 - title: SOSP
   hindex: 112
   year: 2021
@@ -48,6 +36,18 @@
   place: Punta Cana, Dominican Republic
   abstract_deadline: "2021-05-10 23:59:00"
   sub: NLP
+
+- title: SoCC
+  hindex: 47
+  year: 2021
+  id: socc21
+  link: http://acmsocc.org/2021/papers.html
+  deadline: "2021-05-21 16:59:59"
+  timezone: UTC-4
+  date: Nov 1-3, 2021
+  place: Seattle, WA
+  sub: OS
+  note: "<b>NOTE</b>: Mandatory registration deadline on May 21, 2021 (EDT)"
 
 - title: NeurIPS
   hindex: 198
@@ -220,6 +220,18 @@
   place: Mexico City, Mexico
   sub: NLP
 
+- title: ICDCS
+  hindex: 46
+  year: 2021
+  id: icdcs21
+  link: https://icdcs2021.us/cfp.html
+  deadline: "2021-01-13 23:59:59"
+  timezone: UTC-5
+  date: July 7-10, 2021
+  place: Virtual
+  sub: OS
+  note: "<b>NOTE</b>: Mandatory abstract deadline on Jan 6, 2021 (EST)"
+
 - title: IJCAI
   hindex: 67
   year: 2021
@@ -289,3 +301,15 @@
   date: August 23-27, 2021
   place: Athens, Greece
   sub: SE
+
+- title: ASE
+  hindex: 47
+  year: 2021
+  id: ase21
+  link: https://conf.researchr.org/home/ase-2021
+  deadline: "2021-04-23 23:59:59"
+  timezone: UTC-12
+  date: Nov 15-19, 2021
+  place: Melbourne, Australia
+  sub: SE
+  note: "<b>NOTE</b>: Mandatory abstract deadline on April 16, 2021 (AoE)"

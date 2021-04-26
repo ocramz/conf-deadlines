@@ -1,6 +1,8 @@
 ---
 - name: Cloud and Systems
   sub: OS
+- name: Data Mining
+  sub: DM
 - name: Software Engineering
   sub: SE
 - name: Machine Learning
@@ -9,5 +11,3 @@
   sub: NLP
 - name: Programming Languages
   sub: PL
-- name: Data Mining
-  sub: DM
