@@ -137,16 +137,16 @@
 
 - title: CIKM
   hindex: 48
-  year: 2020
-  id: cikm20
-  link: https://cikm2020.org/
-  deadline: "2020-05-01 23:59:59"
-  abstract_deadline: "2020-04-24 23:59:59"
+  year: 2021
+  id: cikm21
+  link: https://www.cikm2021.org/cfp/full-papers
+  deadline: "2020-05-26 23:59:59"
+  abstract_deadline: "2020-05-19 23:59:59"
   timezone: UTC-12
-  date: October 19-23, 2020
-  place: Galway, Ireland
+  date: 1-5 November 2021
+  place: Virtual
   sub: DM
-  note: "<b>NOTE</b>: Mandatory abstract deadline on Apr 24, 2020. More info <a href='https://cikm2020.org/call-for-papers-full-and-short-research-papers/'>here</a>."
+  note: "<b>NOTE</b>: Mandatory abstract deadline on May 18, 2021.</a>."
 
 - title: ICDM
   hindex: 44
