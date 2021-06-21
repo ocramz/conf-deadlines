@@ -1,15 +1,4 @@
 ---
-- title: ICDM
-  hindex: 112
-  year: 2021
-  id: icdm21
-  link: https://icdm2021.auckland.ac.nz/cfp/
-  deadline: "2021-06-11 23:59:00"
-  timezone: UTC-7
-  date: December 7-10, 2021
-  place: Auckland, New Zealand
-  sub: DM
-
 - title: POPL
   hindex: 135
   year: 2022
@@ -25,14 +14,13 @@
   hindex: 112
   year: 2022
   id: asplos22
-  link: https://asplos-conference.org/
-  deadline: "2021-08-21 14:59:00"
-  timezone: America/Los_Angeles
-  date: April 19-23, 2022
-  place: Somewhere
-  abstract_deadline: "2021-08-14 14:59:00"
+  link: https://asplos-conference.org/calls/
+  deadline: "2021-08-13 23:59:59"
+  timezone: UTC+1
+  date: Feb 28-March 4, 2022
+  place: Lausanne, Switzerland
   sub: OS
-  note: "<b>NOTE</b>: Estimated abstract deadline on Aug 14, 2021"
+  note: "<b>NOTE</b>: Mandatory abstract deadline on Aug 6, 2021"
 
 - title: ICSE
   hindex: 46
@@ -335,3 +323,14 @@
   place: Seattle, WA
   sub: OS
   note: "<b>NOTE</b>: Mandatory registration deadline on May 21, 2021 (EDT)"
+
+- title: ICDM
+  hindex: 112
+  year: 2021
+  id: icdm21
+  link: https://icdm2021.auckland.ac.nz/cfp/
+  deadline: "2021-06-11 23:59:00"
+  timezone: UTC-7
+  date: December 7-10, 2021
+  place: Auckland, New Zealand
+  sub: DM
