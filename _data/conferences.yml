@@ -35,16 +35,16 @@
   note: "<b>NOTE</b>: Mandatory abstract deadline on Aug 27, 2021 (AoE)"
 
 - title: NSDI
-  hindex: 47
+  hindex: 46
   year: 2022
   id: nsdi22
-  link: https://www.usenix.org/conference/nsdi21/call-for-papers
-  deadline: "2021-09-17 23:59:59"
-  timezone: UTC-4
-  date: April 12-14, 2022 (Estimated)
-  place: Virtual
+  link: https://www.usenix.org/conference/nsdi22/call-for-papers
+  deadline: "2021-09-15 20:59:59"
+  timezone: UTC-8
+  date: April 4-6, 2022
+  place: Renton, WA, USA
   sub: OS
-  note: "<b>NOTE</b>: Mandatory registration deadline on Sept 10, 2021 (EDT)"
+  note: "<b>NOTE</b>: Mandatory abstract deadline on Sept 9, 2021 (PST)"
 
 - title: WWW
   hindex: 70
