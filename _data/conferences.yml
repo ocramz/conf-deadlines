@@ -77,12 +77,11 @@
   year: 2022
   id: atc22
   link: https://www.usenix.org/conference/atc22
-  deadline: "2022-01-08 23:59:00"
+  deadline: "2022-01-13 23:59:59"
   timezone: UTC
   date: July 11-13, 2022
   place: CARLSBAD, CA, USA
   sub: OS
-  note: "<b>NOTE</b>: Estimated deadline on Jan 8, 2022 (UTC)"
 
 - title: ACL
   hindex: 47
