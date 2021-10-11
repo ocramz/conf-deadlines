@@ -1,31 +1,5 @@
 ---
 
-- title: NSDI
-  hindex: 46
-  year: 2022
-  id: nsdi22
-  link: https://www.usenix.org/conference/nsdi22/call-for-papers
-  deadline: '2021-09-15 20:59:59'
-  timezone: UTC-8
-  date: April 4-6, 2022
-  place: Renton, WA, USA
-  sub: OS
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Sept 9, 2021 (PST)'
-
-- title: ICLR
-  hindex: 150
-  year: 2022
-  id: iclr21
-  link: https://iclr.cc/Conferences/2022/CallForPapers
-  deadline: '2021-10-05 16:59:59'
-  abstract_deadline: '2021-09-28 16:59:59'
-  timezone: UTC-7
-  date: Apr 25-29, 2022
-  place: Virtual
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2021. More info
-    <a href=''https://iclr.cc/Conferences/2022/CallForPapers''>here</a>.'
-
 - title: WWW
   hindex: 70
   year: 2022
@@ -38,30 +12,41 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 14, 2021'
 
-- title: OSDI
-  hindex: 112
+- title: ACL
+  hindex: 47
   year: 2022
-  id: osdi22
-  link: https://www.usenix.org/conference/osdi22
-  deadline: '2021-12-01 15:00:00'
-  timezone: America/Los_Angeles
-  date: July 11-13, 2022
-  place: CARLSBAD, CA, USA
-  sub: OS
-  note: '<b>NOTE</b>: Estimated deadline on Dec 1, 202 (PT)'
+  id: acl22
+  link: https://www.2022.aclweb.org/callpapers
+  deadline: '2021-11-05 23:59:59'
+  timezone: UTC-12
+  date: May 22-27, 2022
+  place: Dublin, Ireland
+  sub: NLP
+  note: '<b>NOTE</b>: ACL22 adopts rolling review, read the CFP for details.'
 
 - title: DSN
   hindex: 112
   year: 2022
   id: dsn22
-  link: http://example.com/
-  deadline: '2021-12-11 14:59:00'
+  link: https://dsn2022.github.io/index.html
+  deadline: '2021-12-10 14:59:00'
   timezone: America/Los_Angeles
-  date: June 21-24, 2022
-  place: Somewhere
-  abstract_deadline: '2021-12-04 14:59:00'
+  date: June 27-30, 2022
+  place: Baltimore, Maryland, USA
   sub: OS
-  note: '<b>NOTE</b>: Estimated abstract deadline on Dec 4, 2021'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Dec 3, 2021'
+
+- title: OSDI
+  hindex: 112
+  year: 2022
+  id: osdi22
+  link: https://www.usenix.org/conference/osdi22
+  deadline: '2021-12-14 15:00:00'
+  timezone: America/Los_Angeles
+  date: July 11-13, 2022
+  place: Carlsbad, CA, USA
+  sub: OS
+  note: '<b>NOTE</b>: Mandatory registration deadline on Dec 7, 2021 (PT)'
 
 - title: USENIX ATC
   hindex: 112
@@ -77,12 +62,12 @@
 - title: ICDCS
   hindex: 46
   year: 2022
-  id: icdcs21
-  link: https://icdcs2021.us/cfp.html
+  id: icdcs22
+  link: https://icdcs2022.icdcs.org/
   deadline: '2022-01-13 23:59:59'
   timezone: UTC-5
-  date: July 7-10, 2022
-  place: Virtual
+  date: July 10-13, 2022
+  place: Bologna, Italy
   sub: OS
   note: '<b>NOTE</b>: Estimated deadline on Jan 13, 2022 (EST)'
 
@@ -90,25 +75,12 @@
   hindex: 46
   year: 2022
   id: issta22
-  link: https://conf.researchr.org/track/issta-2021/issta-2021-technical-papers#Call-for-Papers
-  deadline: '2022-01-29 23:59:59'
+  link: https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers
+  deadline: '2022-01-28 23:59:59'
   timezone: UTC-12
-  date: July 11-17, 2022
-  place: Virtual
+  date: July 18-22, 2022
+  place: Daejeon, South Korea
   sub: SE
-  note: '<b>NOTE</b>: Estimated deadline on Jan 29, 2022 (AoE)'
-
-- title: ACL
-  hindex: 47
-  year: 2022
-  id: acl22
-  link: https://2021.aclweb.org/calls/papers/
-  deadline: '2022-02-02 23:59:59'
-  timezone: UTC-12
-  date: Nov 1-3, 2022
-  place: Somewhere
-  sub: NLP
-  note: '<b>NOTE</b>: Estimated abstract deadline on Jan 25, 2022 (AoE)'
 
 - title: FSE
   hindex: 46
@@ -346,3 +318,29 @@
   place: Pittsburgh, PA, US
   sub: SE
   note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 27, 2021 (AoE)'
+
+- title: NSDI
+  hindex: 46
+  year: 2022
+  id: nsdi22
+  link: https://www.usenix.org/conference/nsdi22/call-for-papers
+  deadline: '2021-09-15 20:59:59'
+  timezone: UTC-8
+  date: April 4-6, 2022
+  place: Renton, WA, USA
+  sub: OS
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Sept 9, 2021 (PST)'
+
+- title: ICLR
+  hindex: 150
+  year: 2022
+  id: iclr21
+  link: https://iclr.cc/Conferences/2022/CallForPapers
+  deadline: '2021-10-05 16:59:59'
+  abstract_deadline: '2021-09-28 16:59:59'
+  timezone: UTC-7
+  date: Apr 25-29, 2022
+  place: Virtual
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2021. More info
+    <a href=''https://iclr.cc/Conferences/2022/CallForPapers''>here</a>.'
