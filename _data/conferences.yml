@@ -28,12 +28,12 @@
   year: 2022
   id: icdcs22
   link: https://icdcs2022.icdcs.org/
-  deadline: '2022-01-13 23:59:59'
+  deadline: '2022-01-24 23:59:59'
   timezone: UTC-5
   date: July 10-13, 2022
   place: Bologna, Italy
   sub: OS
-  note: '<b>NOTE</b>: Estimated deadline on Jan 13, 2022 (EST)'
+  note: '<b>NOTE</b>: Abstract deadline on Jan 17, 2022 (EST)'
 
 - title: ICML
   hindex: 135
