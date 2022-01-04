@@ -1,17 +1,5 @@
 ---
 
-- title: OSDI
-  hindex: 112
-  year: 2022
-  id: osdi22
-  link: https://www.usenix.org/conference/osdi22
-  deadline: '2021-12-14 15:00:00'
-  timezone: America/Los_Angeles
-  date: July 11-13, 2022
-  place: Carlsbad, CA, USA
-  sub: OS
-  note: '<b>NOTE</b>: Mandatory registration deadline on Dec 7, 2021 (PT)'
-
 - title: USENIX ATC
   hindex: 112
   year: 2022
@@ -22,6 +10,18 @@
   date: July 11-13, 2022
   place: CARLSBAD, CA, USA
   sub: OS
+
+- title: IJCAI
+  hindex: 67
+  year: 2022
+  id: ijcai22
+  link: https://ijcai-22.org/calls-papers/
+  deadline: '2022-01-14 23:59:59'
+  timezone: UTC+1
+  date: July 23-29, 2022
+  place: Vienna
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on January 7, 2022'
 
 - title: ICDCS
   hindex: 46
@@ -190,23 +190,11 @@
   place: Mexico City, Mexico
   sub: NLP
 
-- title: IJCAI
-  hindex: 67
-  year: 2021
-  id: ijcai21
-  link: https://ijcai-21.org/
-  deadline: '2021-01-20 23:59:59'
-  abstract_deadline: '2021-01-13 23:59:59'
-  timezone: UTC-12
-  date: August 21-26, 2021
-  place: Montreal, Canada
-  sub: ML
-
 - title: SIGIR
   hindex: 57
-  year: 2021
-  id: sigir21
-  link: http://sigir.org/sigir2021/
+  year: 2022
+  id: sigir22
+  link: http://sigir.org/sigir2022/
   deadline: '2021-02-09 23:59:00'
   timezone: UTC-12
   date: July 11-15, 2021
@@ -344,3 +332,15 @@
   place: Baltimore, Maryland, USA
   sub: OS
   note: '<b>NOTE</b>: Mandatory abstract deadline on Dec 3, 2021'
+
+- title: OSDI
+  hindex: 112
+  year: 2022
+  id: osdi22
+  link: https://www.usenix.org/conference/osdi22
+  deadline: '2021-12-14 15:00:00'
+  timezone: America/Los_Angeles
+  date: July 11-13, 2022
+  place: Carlsbad, CA, USA
+  sub: OS
+  note: '<b>NOTE</b>: Mandatory registration deadline on Dec 7, 2021 (PT)'
