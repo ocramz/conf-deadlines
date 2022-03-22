@@ -1,4 +1,16 @@
 ---
+- title: NSDI
+  hindex: 46
+  year: 2023
+  id: nsdi23
+  link: https://www.usenix.org/conference/nsdi23/call-for-papers
+  deadline: '2022-04-20 05:59:59'
+  timezone: US PDT
+  date: April 17-19, 2023
+  place: BOSTON, MA, USA
+  sub: OS
+  note: '<b>NOTE</b>: Estimated spring abstract deadline on April 13, 2022 (PDT)'
+
 - title: ASPLOS
   hindex: 112
   year: 2023
@@ -84,7 +96,7 @@
 - title: NSDI
   hindex: 46
   year: 2023
-  id: nsdi23
+  id: nsdi22
   link: https://www.usenix.org/conference/nsdi22/call-for-papers
   deadline: '2022-03-10 20:59:59'
   timezone: UTC-8
